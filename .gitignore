@@ -1,0 +1,30 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+env/
+.env
+
+# Data & model artifacts downloaded at runtime by the notebooks
+*.pt
+*.pth
+*.flac
+*.wav
+*.mp3
+*.mp4
+*.png
+*.npz
+runs/
+datasets/
+*.zip
+report.png
+sample.*
+lab*_submission.*
+
+# ... but keep the published test inputs
+!data/**
+
+# OS
+.DS_Store
+Thumbs.db

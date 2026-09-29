@@ -1,0 +1,90 @@
+[
+ {
+  "id": "Q01",
+  "question": "When should the apixaban dose be reduced to 2.5 mg twice daily?"
+ },
+ {
+  "id": "Q02",
+  "question": "What are the four pillars of treatment for heart failure with reduced ejection fraction?"
+ },
+ {
+  "id": "Q03",
+  "question": "What HbA1c target is recommended for a frail 84-year-old with diabetes?"
+ },
+ {
+  "id": "Q04",
+  "question": "Which migraine prophylaxis is preferred in a patient with hypertension?"
+ },
+ {
+  "id": "Q05",
+  "question": "Which pain relievers should be avoided in stage 3b chronic kidney disease?"
+ },
+ {
+  "id": "Q06",
+  "question": "How should a dog bite wound on the hand be managed?"
+ },
+ {
+  "id": "Q07",
+  "question": "Can a patient with an eGFR of 25 continue taking metformin?"
+ },
+ {
+  "id": "Q08",
+  "question": "What is the starting dose of allopurinol for gout and what urate level is the target?"
+ },
+ {
+  "id": "Q09",
+  "question": "Which antibiotic and dose is recommended for community-acquired pneumonia in adults?"
+ },
+ {
+  "id": "Q10",
+  "question": "How often should a person with type 2 diabetes have their eyes screened?"
+ },
+ {
+  "id": "Q11",
+  "question": "At what HbA1c level is type 2 diabetes diagnosed?"
+ },
+ {
+  "id": "Q12",
+  "question": "What spirometry finding confirms COPD?"
+ },
+ {
+  "id": "Q13",
+  "question": "Which blood pressure medicines are safe to use during pregnancy?"
+ },
+ {
+  "id": "Q14",
+  "question": "What is the preferred reliever inhaler for an adult with mild asthma?"
+ },
+ {
+  "id": "Q15",
+  "question": "What is the first-line treatment for moderate acne vulgaris?"
+ },
+ {
+  "id": "Q16",
+  "question": "What is the LDL cholesterol goal after a myocardial infarction?"
+ },
+ {
+  "id": "Q17",
+  "question": "How should mild hypoglycaemia be treated in a conscious patient?"
+ },
+ {
+  "id": "Q18",
+  "question": "Is it acceptable to combine lisinopril with losartan for resistant hypertension?"
+ },
+ {
+  "id": "Q19",
+  "question": "When should a man with atrial fibrillation be started on an anticoagulant?"
+ },
+ {
+  "id": "Q20",
+  "question": "At what age should average-risk adults start colorectal cancer screening?"
+ },
+ {
+  "id": "Q21",
+  "question": "What is the recommended dose of amoxicillin for acute otitis media in children?"
+ },
+ {
+  "id": "Q22",
+  "question": "Which drug is first-line for a newly diagnosed adult with type 2 diabetes?"
+ }
+]

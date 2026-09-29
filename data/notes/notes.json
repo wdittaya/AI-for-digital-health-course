@@ -1,0 +1,82 @@
+[
+ {
+  "id": "N01",
+  "note": "68F with underactive thyroid presents for a routine visit. Reports heartburn x1 days. BP 132/65, HR 71. Medications: losartan 50mg at bedtime; insulin glargine 24 units at bedtime. No chest pain. Plan: return in 6 weeks, increase losartan dose."
+ },
+ {
+  "id": "N02",
+  "note": "85-year-old man with a history of major depressive disorder and OA presents for review of recent labs. Reports knee pain x3 weeks. BP 118/72, HR 97. Medications: sertraline 50mg daily; aspirin 81 mg once daily. No visual changes. Plan: continue current regimen, refer to dietitian."
+ },
+ {
+  "id": "N03",
+  "note": "46F with GERD, CAD and heart failure presents for medication review. Reports dry cough x6 weeks. BP 134/74, HR 66. Current meds include albuterol inhaler PRN and gabapentin 300 mg at bedtime and atorvastatin 20mg BID. Denies dyspnea at rest. Plan: start home BP monitoring, return in 6 weeks."
+ },
+ {
+  "id": "N04",
+  "note": "82-year-old woman with a history of GOUT, dm2 and osteoarthritis presents for medication review. Reports intermittent headaches x5 days. BP 155/87, HR 91. Fasting glucose 135 mg/dL, HbA1c 8.7%. Current meds include albuterol inhaler PRN and gabapentin 600mg once daily. No chest pain. Plan: increase albuterol dose, start home BP monitoring."
+ },
+ {
+  "id": "N05",
+  "note": "Patient is a 44 year old female with gastroesophageal reflux disease and HF, seen today for follow-up. Reports knee pain x3 weeks. BP 108/69, HR 86. On lisinopril 10mg at bedtime, amlodipine 10 mg BID, atorvastatin 10mg BID. No visual changes. Plan: continue current regimen, add lifestyle counseling."
+ },
+ {
+  "id": "N06",
+  "note": "58F with type 2 diabetes mellitus presents for a routine visit. Reports polyuria x1 days. BP 141/99, HR 72. Fasting glucose 161 mg/dL, HbA1c 7.8%. On hydrochlorothiazide 12.5 mg daily, clopidogrel 75mg once daily, levothyroxine 25 mcg daily. No chest pain. Plan: increase hydrochlorothiazide dose, add lifestyle counseling."
+ },
+ {
+  "id": "N07",
+  "note": "M, 63 y/o. PMH: chronic kidney disease, AF and obesity. Here for an annual check-up. Reports knee pain x4 months. BP 128/66, HR 64. Creatinine 1.4 mg/dL, eGFR 52. Current meds include empagliflozin 10 mg BID. No known drug allergies. Plan: recheck labs in 3 months, add lifestyle counseling."
+ },
+ {
+  "id": "N08",
+  "note": "Patient is a 28 year old male with atrial fibrillation, asthma and dm2, seen today for an annual check-up. Reports intermittent headaches x3 weeks. BP 124/67, HR 71. Fasting glucose 101 mg/dL, HbA1c 6.5%. Current meds include aspirin 81mg twice daily and losartan 100 mg BID and atorvastatin 20 mg twice daily. No chest pain. Plan: add lifestyle counseling, recheck labs in 3 months."
+ },
+ {
+  "id": "N09",
+  "note": "71-year-old woman with a history of obese and osteoarthritis presents for medication review. Reports dry cough x7 weeks. BP 145/78, HR 58. Current meds include furosemide 20mg daily and lisinopril 10 mg daily. No fever. Plan: add lifestyle counseling, recheck labs in 3 months."
+ },
+ {
+  "id": "N10",
+  "note": "Patient is a 81 year old female with chronic kidney disease, COPD and acid reflux, seen today for a routine visit. Reports polyuria x2 months. BP 156/89, HR 74. Creatinine 2.8 mg/dL, eGFR 45. Current meds include metformin 850 mg daily. No known drug allergies. Plan: refer to dietitian, recheck labs in 3 months."
+ },
+ {
+  "id": "N11",
+  "note": "81-year-old woman with a history of osteoarthritis presents for a routine visit. Reports fatigue x3 months. BP 128/90, HR 91. Current meds include lisinopril 40mg twice daily. No visual changes. Plan: recheck labs in 3 months, continue current regimen."
+ },
+ {
+  "id": "N12",
+  "note": "Patient is a 34 year old female with hypothyroidism, seen today for an annual check-up. Reports dizziness on standing x3 days. BP 120/94, HR 82. Current meds include empagliflozin 10 mg once daily. No known drug allergies. Plan: order HbA1c and lipid panel, start home BP monitoring."
+ },
+ {
+  "id": "N13",
+  "note": "51-year-old man with a history of hypothyroidism, gastroesophageal reflux disease and heart failure presents for medication review. Reports heartburn x7 days. BP 134/83, HR 74. Medications: levothyroxine 100 mcg daily; metoprolol 50mg at bedtime; sertraline 100mg daily. No fever. Plan: refer to dietitian, order HbA1c and lipid panel."
+ },
+ {
+  "id": "N14",
+  "note": "M, 46 y/o. PMH: high blood pressure. Here for medication review. Reports poor sleep x6 weeks. BP 131/98, HR 82. On metformin 1000mg at bedtime, empagliflozin 10mg BID. Denies dyspnea at rest. Plan: increase metformin dose, add lifestyle counseling."
+ },
+ {
+  "id": "N15",
+  "note": "49-year-old man with a history of obese presents for an annual check-up. Reports intermittent headaches x3 days. BP 118/71, HR 82. Current meds include apixaban 5 mg once daily and albuterol inhaler PRN and sertraline 50 mg BID. Denies dyspnea at rest. Plan: continue current regimen, refer to dietitian."
+ },
+ {
+  "id": "N16",
+  "note": "Patient is a 59 year old male with OA, seen today for review of recent labs. Reports dry cough x2 months. BP 119/92, HR 56. On insulin glargine 10 units at bedtime. No visual changes. Plan: increase insulin glargine dose, recheck labs in 3 months."
+ },
+ {
+  "id": "N17",
+  "note": "79M with obesity presents for a routine visit. Reports dizziness on standing x5 weeks. BP 154/85, HR 98. Medications: lisinopril 10 mg BID. No chest pain. Plan: start home BP monitoring, order HbA1c and lipid panel."
+ },
+ {
+  "id": "N18",
+  "note": "Patient is a 26 year old male with major depressive disorder and hyperlipidemia, seen today for medication review. Reports intermittent headaches x4 weeks. BP 126/69, HR 69. LDL 148 mg/dL. Current meds include levothyroxine 50 mcg daily. No fever. Plan: recheck labs in 3 months, start home BP monitoring."
+ },
+ {
+  "id": "N19",
+  "note": "Patient is a 22 year old female with depression, seen today for medication review. Reports shortness of breath on exertion x5 months. BP 124/68, HR 94. Medications: levothyroxine 50 mcg daily; hydrochlorothiazide 25 mg at bedtime. No known drug allergies. Plan: start home BP monitoring, continue current regimen."
+ },
+ {
+  "id": "N20",
+  "note": "Patient is a 40 year old female with atrial fibrillation and hypothyroidism, seen today for a routine visit. Reports ankle swelling x3 weeks. BP 118/68, HR 70. On clopidogrel 75mg daily, furosemide 80mg twice daily. No chest pain. Plan: start home BP monitoring, increase clopidogrel dose."
+ }
+]

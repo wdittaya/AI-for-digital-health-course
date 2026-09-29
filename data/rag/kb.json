@@ -1,0 +1,162 @@
+[
+ {
+  "id": "P17",
+  "text": "A fasting or non-fasting lipid panel should be repeated 4 to 12 weeks after starting or changing statin therapy to assess adherence and response."
+ },
+ {
+  "id": "P26",
+  "text": "Smoking cessation is the single most effective intervention to slow the progression of COPD; every smoker should be offered counselling plus pharmacotherapy such as varenicline or nicotine replacement."
+ },
+ {
+  "id": "P12",
+  "text": "Lifestyle measures for hypertension include dietary sodium below 2 grams per day, the DASH diet, at least 150 minutes of moderate aerobic activity per week, weight loss and limiting alcohol."
+ },
+ {
+  "id": "P05",
+  "text": "Moderate-intensity statin therapy is recommended for people with diabetes aged 40 to 75 years without established cardiovascular disease; high-intensity statin is recommended if additional risk factors are present."
+ },
+ {
+  "id": "P07",
+  "text": "Adults with type 2 diabetes should have a dilated retinal examination at diagnosis and at least every 1 to 2 years thereafter to screen for diabetic retinopathy."
+ },
+ {
+  "id": "P39",
+  "text": "Severe hyperkalaemia (potassium above 6.0 mmol/L or any level with ECG changes) requires intravenous calcium gluconate for membrane stabilisation, followed by insulin with glucose to shift potassium into cells."
+ },
+ {
+  "id": "P32",
+  "text": "Loop diuretics such as furosemide are used to relieve congestion in heart failure and should be adjusted to the lowest dose that maintains euvolaemia; they do not improve survival."
+ },
+ {
+  "id": "P02",
+  "text": "First-line pharmacotherapy for most adults with type 2 diabetes is metformin, started alongside lifestyle modification, unless it is contraindicated or not tolerated."
+ },
+ {
+  "id": "P31",
+  "text": "Guideline-directed therapy for heart failure with reduced ejection fraction has four pillars: an ARNI or ACE inhibitor, a beta-blocker, a mineralocorticoid receptor antagonist and an SGLT2 inhibitor."
+ },
+ {
+  "id": "P13",
+  "text": "First-line antihypertensive drug classes are thiazide-type diuretics, ACE inhibitors, angiotensin receptor blockers and calcium channel blockers; beta-blockers are not first-line unless there is a compelling indication."
+ },
+ {
+  "id": "P19",
+  "text": "Chronic kidney disease is staged by eGFR: G1 90 or above, G2 60-89, G3a 45-59, G3b 30-44, G4 15-29 and G5 below 15 mL/min/1.73 m2, together with the albuminuria category."
+ },
+ {
+  "id": "P06",
+  "text": "Metformin is contraindicated when eGFR is below 30 mL/min/1.73 m2 and should not be initiated when eGFR is between 30 and 45; the dose should be reviewed at eGFR below 45."
+ },
+ {
+  "id": "P14",
+  "text": "An ACE inhibitor and an angiotensin receptor blocker should not be combined because the combination increases hyperkalaemia and acute kidney injury without added benefit."
+ },
+ {
+  "id": "P01",
+  "text": "Type 2 diabetes is diagnosed when HbA1c is 6.5% or higher, fasting plasma glucose is 126 mg/dL or higher, or a 2-hour glucose is 200 mg/dL or higher on an oral glucose tolerance test, confirmed by repeat testing."
+ },
+ {
+  "id": "P25",
+  "text": "COPD is confirmed by post-bronchodilator spirometry showing an FEV1/FVC ratio below 0.70 in a patient with symptoms and a history of exposure such as tobacco smoke."
+ },
+ {
+  "id": "P34",
+  "text": "All adults with diabetes should receive an annual influenza vaccine, and pneumococcal vaccination is recommended for adults aged 65 years and older and for younger adults with chronic conditions."
+ },
+ {
+  "id": "P10",
+  "text": "Mild hypoglycaemia (glucose below 70 mg/dL) in a conscious patient is treated with 15 grams of fast-acting carbohydrate, rechecking glucose after 15 minutes and repeating if still below 70 mg/dL."
+ },
+ {
+  "id": "P33",
+  "text": "The apixaban dose for atrial fibrillation is reduced from 5 mg to 2.5 mg twice daily when at least two of the following are present: age 80 or older, weight 60 kg or less, or serum creatinine 1.5 mg/dL or higher."
+ },
+ {
+  "id": "P22",
+  "text": "For adults with mild asthma, as-needed low-dose inhaled corticosteroid-formoterol is the preferred reliever; short-acting beta-agonist alone is no longer recommended."
+ },
+ {
+  "id": "P35",
+  "text": "Obesity is defined as a body mass index of 30 kg/m2 or higher; pharmacotherapy may be considered at BMI 30 or above, or 27 or above with a weight-related comorbidity, in addition to lifestyle intervention."
+ },
+ {
+  "id": "P20",
+  "text": "An ACE inhibitor or angiotensin receptor blocker is recommended for patients with chronic kidney disease and albuminuria (urine albumin-creatinine ratio 30 mg/g or higher), titrated to the highest tolerated dose."
+ },
+ {
+  "id": "P21",
+  "text": "Non-steroidal anti-inflammatory drugs should be avoided in patients with chronic kidney disease stage G3 or worse because they can precipitate acute kidney injury and worsen hypertension."
+ },
+ {
+  "id": "P40",
+  "text": "Adults with suspected infection should be screened for sepsis; a qSOFA score of 2 or more (altered mentation, systolic blood pressure 100 mmHg or below, respiratory rate 22 or above) indicates high risk of poor outcome."
+ },
+ {
+  "id": "P24",
+  "text": "A spacer device should be used with pressurised metered-dose inhalers to improve lung deposition and reduce oropharyngeal side effects, especially in children and during exacerbations."
+ },
+ {
+  "id": "P09",
+  "text": "For people with type 2 diabetes who have chronic kidney disease or heart failure, an SGLT2 inhibitor is recommended independent of HbA1c to reduce kidney and cardiovascular events."
+ },
+ {
+  "id": "P37",
+  "text": "Levothyroxine replacement for overt hypothyroidism is typically started at 1.6 micrograms per kilogram per day, with TSH rechecked 6 to 8 weeks after any dose change."
+ },
+ {
+  "id": "P04",
+  "text": "The blood pressure target for most adults with diabetes is below 130/80 mmHg if it can be achieved safely."
+ },
+ {
+  "id": "P36",
+  "text": "Urate-lowering therapy with allopurinol is started at 100 mg daily and titrated every 2 to 4 weeks to a serum urate target below 6 mg/dL; a lower starting dose is used in chronic kidney disease."
+ },
+ {
+  "id": "P38",
+  "text": "A serum ferritin below 30 ng/mL indicates iron deficiency; in the presence of inflammation, ferritin below 100 ng/mL with transferrin saturation below 20% also suggests iron deficiency."
+ },
+ {
+  "id": "P23",
+  "text": "Asthma treatment should be stepped up if a patient needs reliever medication more than twice a week, wakes at night because of asthma, or has had an exacerbation requiring oral steroids in the past year."
+ },
+ {
+  "id": "P29",
+  "text": "Direct oral anticoagulants such as apixaban are preferred over warfarin for stroke prevention in non-valvular atrial fibrillation because of similar efficacy and less intracranial bleeding."
+ },
+ {
+  "id": "P03",
+  "text": "A reasonable HbA1c target for most non-pregnant adults with diabetes is below 7%; a less stringent target such as below 8% is appropriate for frail older adults or those with limited life expectancy."
+ },
+ {
+  "id": "P16",
+  "text": "In patients with established atherosclerotic cardiovascular disease, the LDL cholesterol goal is below 70 mg/dL, using a high-intensity statin and adding ezetimibe if the goal is not reached."
+ },
+ {
+  "id": "P30",
+  "text": "For rate control in atrial fibrillation, a beta-blocker or a non-dihydropyridine calcium channel blocker is first-line, aiming for a resting heart rate below 110 beats per minute."
+ },
+ {
+  "id": "P18",
+  "text": "Patients reporting statin-associated muscle symptoms should have creatine kinase measured; if symptoms are intolerable, the statin can be paused and rechallenged at a lower dose or with an alternative statin."
+ },
+ {
+  "id": "P08",
+  "text": "A comprehensive foot examination, including inspection, pulses and loss-of-protective-sensation testing, should be performed at least annually in every person with diabetes."
+ },
+ {
+  "id": "P11",
+  "text": "Hypertension is diagnosed when the average of readings on two or more occasions is 130/80 mmHg or higher; out-of-office measurement is recommended to confirm the diagnosis."
+ },
+ {
+  "id": "P27",
+  "text": "Initial maintenance therapy for symptomatic COPD with a history of exacerbations is a long-acting muscarinic antagonist, with a long-acting beta-agonist added if symptoms persist."
+ },
+ {
+  "id": "P28",
+  "text": "Oral anticoagulation is recommended for atrial fibrillation when the CHA2DS2-VASc score is 2 or higher in men or 3 or higher in women."
+ },
+ {
+  "id": "P15",
+  "text": "ACE inhibitors and angiotensin receptor blockers are contraindicated in pregnancy; preferred agents for hypertension in pregnancy are labetalol, nifedipine and methyldopa."
+ }
+]
